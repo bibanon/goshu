@@ -6,3 +6,4 @@ pyparsing
 pyquery
 requests
 wolframalpha
+python-twitter
